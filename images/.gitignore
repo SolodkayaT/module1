@@ -1,4 +1,0 @@
-# ignore all in the images folder
-*
-# not ignore
-!.gitignore
